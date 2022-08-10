@@ -1,0 +1,364 @@
+year,city,country,avg_temp
+1840,Hanoi,Vietnam,21.00
+1841,Hanoi,Vietnam,21.30
+1842,Hanoi,Vietnam,21.16
+1843,Hanoi,Vietnam,21.26
+1844,Hanoi,Vietnam,20.78
+1845,Hanoi,Vietnam,20.68
+1846,Hanoi,Vietnam,21.25
+1847,Hanoi,Vietnam,20.83
+1848,Hanoi,Vietnam,20.73
+1849,Hanoi,Vietnam,20.94
+1850,Hanoi,Vietnam,21.11
+1851,Hanoi,Vietnam,21.26
+1852,Hanoi,Vietnam,21.12
+1853,Hanoi,Vietnam,21.51
+1854,Hanoi,Vietnam,21.45
+1855,Hanoi,Vietnam,21.10
+1856,Hanoi,Vietnam,20.69
+1857,Hanoi,Vietnam,20.89
+1858,Hanoi,Vietnam,21.10
+1859,Hanoi,Vietnam,21.24
+1860,Hanoi,Vietnam,21.12
+1861,Hanoi,Vietnam,20.95
+1862,Hanoi,Vietnam,20.48
+1863,Hanoi,Vietnam,20.90
+1864,Hanoi,Vietnam,20.77
+1865,Hanoi,Vietnam,21.41
+1866,Hanoi,Vietnam,21.24
+1867,Hanoi,Vietnam,21.40
+1868,Hanoi,Vietnam,21.53
+1869,Hanoi,Vietnam,21.18
+1870,Hanoi,Vietnam,21.35
+1871,Hanoi,Vietnam,21.30
+1872,Hanoi,Vietnam,21.47
+1873,Hanoi,Vietnam,21.32
+1874,Hanoi,Vietnam,21.40
+1875,Hanoi,Vietnam,21.10
+1876,Hanoi,Vietnam,20.90
+1877,Hanoi,Vietnam,21.36
+1878,Hanoi,Vietnam,21.69
+1879,Hanoi,Vietnam,21.55
+1880,Hanoi,Vietnam,20.99
+1881,Hanoi,Vietnam,21.27
+1882,Hanoi,Vietnam,21.18
+1883,Hanoi,Vietnam,20.83
+1884,Hanoi,Vietnam,20.57
+1885,Hanoi,Vietnam,20.88
+1886,Hanoi,Vietnam,20.95
+1887,Hanoi,Vietnam,21.03
+1888,Hanoi,Vietnam,21.43
+1889,Hanoi,Vietnam,21.46
+1890,Hanoi,Vietnam,21.54
+1891,Hanoi,Vietnam,21.41
+1892,Hanoi,Vietnam,20.70
+1893,Hanoi,Vietnam,20.68
+1894,Hanoi,Vietnam,21.15
+1895,Hanoi,Vietnam,21.35
+1896,Hanoi,Vietnam,21.32
+1897,Hanoi,Vietnam,21.50
+1898,Hanoi,Vietnam,21.47
+1899,Hanoi,Vietnam,21.15
+1900,Hanoi,Vietnam,21.21
+1901,Hanoi,Vietnam,21.38
+1902,Hanoi,Vietnam,22.07
+1903,Hanoi,Vietnam,21.07
+1904,Hanoi,Vietnam,21.33
+1905,Hanoi,Vietnam,21.22
+1906,Hanoi,Vietnam,21.71
+1907,Hanoi,Vietnam,21.30
+1908,Hanoi,Vietnam,21.06
+1909,Hanoi,Vietnam,21.43
+1910,Hanoi,Vietnam,21.16
+1911,Hanoi,Vietnam,21.65
+1912,Hanoi,Vietnam,21.39
+1913,Hanoi,Vietnam,21.14
+1914,Hanoi,Vietnam,22.07
+1915,Hanoi,Vietnam,21.90
+1916,Hanoi,Vietnam,21.07
+1917,Hanoi,Vietnam,20.67
+1918,Hanoi,Vietnam,21.11
+1919,Hanoi,Vietnam,21.80
+1920,Hanoi,Vietnam,21.60
+1921,Hanoi,Vietnam,21.55
+1922,Hanoi,Vietnam,21.72
+1923,Hanoi,Vietnam,22.04
+1924,Hanoi,Vietnam,21.81
+1925,Hanoi,Vietnam,21.08
+1926,Hanoi,Vietnam,21.46
+1927,Hanoi,Vietnam,21.54
+1928,Hanoi,Vietnam,21.51
+1929,Hanoi,Vietnam,21.57
+1930,Hanoi,Vietnam,21.42
+1931,Hanoi,Vietnam,22.02
+1932,Hanoi,Vietnam,21.21
+1933,Hanoi,Vietnam,21.55
+1934,Hanoi,Vietnam,21.13
+1935,Hanoi,Vietnam,22.04
+1936,Hanoi,Vietnam,21.28
+1937,Hanoi,Vietnam,22.04
+1938,Hanoi,Vietnam,21.89
+1939,Hanoi,Vietnam,21.67
+1940,Hanoi,Vietnam,21.77
+1941,Hanoi,Vietnam,22.21
+1942,Hanoi,Vietnam,22.24
+1943,Hanoi,Vietnam,21.98
+1944,Hanoi,Vietnam,21.94
+1945,Hanoi,Vietnam,21.60
+1946,Hanoi,Vietnam,22.91
+1947,Hanoi,Vietnam,21.90
+1948,Hanoi,Vietnam,22.01
+1949,Hanoi,Vietnam,21.98
+1950,Hanoi,Vietnam,21.90
+1951,Hanoi,Vietnam,21.72
+1952,Hanoi,Vietnam,22.34
+1953,Hanoi,Vietnam,22.05
+1954,Hanoi,Vietnam,21.99
+1955,Hanoi,Vietnam,21.61
+1956,Hanoi,Vietnam,21.45
+1957,Hanoi,Vietnam,21.93
+1958,Hanoi,Vietnam,21.88
+1959,Hanoi,Vietnam,21.82
+1960,Hanoi,Vietnam,22.05
+1961,Hanoi,Vietnam,22.03
+1962,Hanoi,Vietnam,21.61
+1963,Hanoi,Vietnam,21.88
+1964,Hanoi,Vietnam,21.74
+1965,Hanoi,Vietnam,22.09
+1966,Hanoi,Vietnam,22.38
+1967,Hanoi,Vietnam,21.32
+1968,Hanoi,Vietnam,21.67
+1969,Hanoi,Vietnam,21.88
+1970,Hanoi,Vietnam,21.60
+1971,Hanoi,Vietnam,21.29
+1972,Hanoi,Vietnam,21.86
+1973,Hanoi,Vietnam,22.24
+1974,Hanoi,Vietnam,21.54
+1975,Hanoi,Vietnam,21.96
+1976,Hanoi,Vietnam,21.35
+1977,Hanoi,Vietnam,21.75
+1978,Hanoi,Vietnam,21.81
+1979,Hanoi,Vietnam,22.08
+1980,Hanoi,Vietnam,22.08
+1981,Hanoi,Vietnam,22.06
+1982,Hanoi,Vietnam,21.86
+1983,Hanoi,Vietnam,21.56
+1984,Hanoi,Vietnam,21.36
+1985,Hanoi,Vietnam,21.46
+1986,Hanoi,Vietnam,21.90
+1987,Hanoi,Vietnam,22.71
+1988,Hanoi,Vietnam,21.78
+1989,Hanoi,Vietnam,21.72
+1990,Hanoi,Vietnam,22.23
+1991,Hanoi,Vietnam,22.16
+1992,Hanoi,Vietnam,21.49
+1993,Hanoi,Vietnam,21.75
+1994,Hanoi,Vietnam,21.98
+1995,Hanoi,Vietnam,21.51
+1996,Hanoi,Vietnam,21.32
+1997,Hanoi,Vietnam,21.92
+1998,Hanoi,Vietnam,22.65
+1999,Hanoi,Vietnam,22.07
+2000,Hanoi,Vietnam,21.80
+2001,Hanoi,Vietnam,21.79
+2002,Hanoi,Vietnam,22.13
+2003,Hanoi,Vietnam,22.62
+2004,Hanoi,Vietnam,21.79
+2005,Hanoi,Vietnam,21.91
+2006,Hanoi,Vietnam,22.37
+2007,Hanoi,Vietnam,22.26
+2008,Hanoi,Vietnam,21.37
+2009,Hanoi,Vietnam,22.59
+2010,Hanoi,Vietnam,22.57
+2011,Hanoi,Vietnam,21.03
+2012,Hanoi,Vietnam,22.09
+2013,Hanoi,Vietnam,23.10
+1825,Ho Chi Minh City,Vietnam,27.11
+1826,Ho Chi Minh City,Vietnam,
+1827,Ho Chi Minh City,Vietnam,
+1828,Ho Chi Minh City,Vietnam,
+1829,Ho Chi Minh City,Vietnam,
+1830,Ho Chi Minh City,Vietnam,
+1831,Ho Chi Minh City,Vietnam,
+1832,Ho Chi Minh City,Vietnam,
+1833,Ho Chi Minh City,Vietnam,
+1834,Ho Chi Minh City,Vietnam,
+1835,Ho Chi Minh City,Vietnam,
+1836,Ho Chi Minh City,Vietnam,
+1837,Ho Chi Minh City,Vietnam,
+1838,Ho Chi Minh City,Vietnam,
+1839,Ho Chi Minh City,Vietnam,26.69
+1840,Ho Chi Minh City,Vietnam,26.63
+1841,Ho Chi Minh City,Vietnam,27.02
+1842,Ho Chi Minh City,Vietnam,26.87
+1843,Ho Chi Minh City,Vietnam,26.94
+1844,Ho Chi Minh City,Vietnam,26.41
+1845,Ho Chi Minh City,Vietnam,26.12
+1846,Ho Chi Minh City,Vietnam,26.94
+1847,Ho Chi Minh City,Vietnam,26.41
+1848,Ho Chi Minh City,Vietnam,
+1849,Ho Chi Minh City,Vietnam,
+1850,Ho Chi Minh City,Vietnam,26.65
+1851,Ho Chi Minh City,Vietnam,26.82
+1852,Ho Chi Minh City,Vietnam,26.70
+1853,Ho Chi Minh City,Vietnam,26.87
+1854,Ho Chi Minh City,Vietnam,26.89
+1855,Ho Chi Minh City,Vietnam,26.76
+1856,Ho Chi Minh City,Vietnam,26.53
+1857,Ho Chi Minh City,Vietnam,26.51
+1858,Ho Chi Minh City,Vietnam,26.83
+1859,Ho Chi Minh City,Vietnam,26.88
+1860,Ho Chi Minh City,Vietnam,26.69
+1861,Ho Chi Minh City,Vietnam,26.58
+1862,Ho Chi Minh City,Vietnam,24.85
+1863,Ho Chi Minh City,Vietnam,26.67
+1864,Ho Chi Minh City,Vietnam,26.52
+1865,Ho Chi Minh City,Vietnam,26.89
+1866,Ho Chi Minh City,Vietnam,26.84
+1867,Ho Chi Minh City,Vietnam,26.86
+1868,Ho Chi Minh City,Vietnam,27.06
+1869,Ho Chi Minh City,Vietnam,26.64
+1870,Ho Chi Minh City,Vietnam,26.51
+1871,Ho Chi Minh City,Vietnam,26.54
+1872,Ho Chi Minh City,Vietnam,26.87
+1873,Ho Chi Minh City,Vietnam,26.95
+1874,Ho Chi Minh City,Vietnam,27.03
+1875,Ho Chi Minh City,Vietnam,26.52
+1876,Ho Chi Minh City,Vietnam,26.40
+1877,Ho Chi Minh City,Vietnam,27.15
+1878,Ho Chi Minh City,Vietnam,27.44
+1879,Ho Chi Minh City,Vietnam,26.76
+1880,Ho Chi Minh City,Vietnam,26.75
+1881,Ho Chi Minh City,Vietnam,26.89
+1882,Ho Chi Minh City,Vietnam,26.84
+1883,Ho Chi Minh City,Vietnam,26.67
+1884,Ho Chi Minh City,Vietnam,26.40
+1885,Ho Chi Minh City,Vietnam,26.87
+1886,Ho Chi Minh City,Vietnam,26.65
+1887,Ho Chi Minh City,Vietnam,26.34
+1888,Ho Chi Minh City,Vietnam,27.04
+1889,Ho Chi Minh City,Vietnam,27.12
+1890,Ho Chi Minh City,Vietnam,26.72
+1891,Ho Chi Minh City,Vietnam,26.93
+1892,Ho Chi Minh City,Vietnam,26.36
+1893,Ho Chi Minh City,Vietnam,26.38
+1894,Ho Chi Minh City,Vietnam,26.59
+1895,Ho Chi Minh City,Vietnam,26.91
+1896,Ho Chi Minh City,Vietnam,26.94
+1897,Ho Chi Minh City,Vietnam,27.39
+1898,Ho Chi Minh City,Vietnam,26.77
+1899,Ho Chi Minh City,Vietnam,26.70
+1900,Ho Chi Minh City,Vietnam,27.24
+1901,Ho Chi Minh City,Vietnam,26.94
+1902,Ho Chi Minh City,Vietnam,26.92
+1903,Ho Chi Minh City,Vietnam,27.06
+1904,Ho Chi Minh City,Vietnam,26.73
+1905,Ho Chi Minh City,Vietnam,27.32
+1906,Ho Chi Minh City,Vietnam,27.26
+1907,Ho Chi Minh City,Vietnam,26.95
+1908,Ho Chi Minh City,Vietnam,26.77
+1909,Ho Chi Minh City,Vietnam,26.96
+1910,Ho Chi Minh City,Vietnam,26.98
+1911,Ho Chi Minh City,Vietnam,27.28
+1912,Ho Chi Minh City,Vietnam,27.56
+1913,Ho Chi Minh City,Vietnam,26.92
+1914,Ho Chi Minh City,Vietnam,27.31
+1915,Ho Chi Minh City,Vietnam,27.32
+1916,Ho Chi Minh City,Vietnam,26.52
+1917,Ho Chi Minh City,Vietnam,26.54
+1918,Ho Chi Minh City,Vietnam,26.70
+1919,Ho Chi Minh City,Vietnam,27.33
+1920,Ho Chi Minh City,Vietnam,27.08
+1921,Ho Chi Minh City,Vietnam,26.82
+1922,Ho Chi Minh City,Vietnam,27.08
+1923,Ho Chi Minh City,Vietnam,26.98
+1924,Ho Chi Minh City,Vietnam,27.12
+1925,Ho Chi Minh City,Vietnam,26.87
+1926,Ho Chi Minh City,Vietnam,27.40
+1927,Ho Chi Minh City,Vietnam,27.14
+1928,Ho Chi Minh City,Vietnam,26.82
+1929,Ho Chi Minh City,Vietnam,26.80
+1930,Ho Chi Minh City,Vietnam,27.29
+1931,Ho Chi Minh City,Vietnam,27.54
+1932,Ho Chi Minh City,Vietnam,26.98
+1933,Ho Chi Minh City,Vietnam,27.20
+1934,Ho Chi Minh City,Vietnam,26.91
+1935,Ho Chi Minh City,Vietnam,27.43
+1936,Ho Chi Minh City,Vietnam,27.51
+1937,Ho Chi Minh City,Vietnam,27.56
+1938,Ho Chi Minh City,Vietnam,27.36
+1939,Ho Chi Minh City,Vietnam,27.23
+1940,Ho Chi Minh City,Vietnam,27.40
+1941,Ho Chi Minh City,Vietnam,28.04
+1942,Ho Chi Minh City,Vietnam,27.34
+1943,Ho Chi Minh City,Vietnam,26.87
+1944,Ho Chi Minh City,Vietnam,27.16
+1945,Ho Chi Minh City,Vietnam,27.23
+1946,Ho Chi Minh City,Vietnam,27.81
+1947,Ho Chi Minh City,Vietnam,27.59
+1948,Ho Chi Minh City,Vietnam,27.35
+1949,Ho Chi Minh City,Vietnam,27.51
+1950,Ho Chi Minh City,Vietnam,27.37
+1951,Ho Chi Minh City,Vietnam,27.34
+1952,Ho Chi Minh City,Vietnam,27.48
+1953,Ho Chi Minh City,Vietnam,27.59
+1954,Ho Chi Minh City,Vietnam,27.38
+1955,Ho Chi Minh City,Vietnam,27.24
+1956,Ho Chi Minh City,Vietnam,27.16
+1957,Ho Chi Minh City,Vietnam,27.50
+1958,Ho Chi Minh City,Vietnam,27.72
+1959,Ho Chi Minh City,Vietnam,27.73
+1960,Ho Chi Minh City,Vietnam,27.69
+1961,Ho Chi Minh City,Vietnam,27.57
+1962,Ho Chi Minh City,Vietnam,27.39
+1963,Ho Chi Minh City,Vietnam,27.22
+1964,Ho Chi Minh City,Vietnam,27.48
+1965,Ho Chi Minh City,Vietnam,27.37
+1966,Ho Chi Minh City,Vietnam,27.89
+1967,Ho Chi Minh City,Vietnam,27.34
+1968,Ho Chi Minh City,Vietnam,27.41
+1969,Ho Chi Minh City,Vietnam,27.82
+1970,Ho Chi Minh City,Vietnam,27.37
+1971,Ho Chi Minh City,Vietnam,27.07
+1972,Ho Chi Minh City,Vietnam,27.59
+1973,Ho Chi Minh City,Vietnam,27.77
+1974,Ho Chi Minh City,Vietnam,27.42
+1975,Ho Chi Minh City,Vietnam,27.44
+1976,Ho Chi Minh City,Vietnam,27.27
+1977,Ho Chi Minh City,Vietnam,27.41
+1978,Ho Chi Minh City,Vietnam,27.46
+1979,Ho Chi Minh City,Vietnam,27.59
+1980,Ho Chi Minh City,Vietnam,27.54
+1981,Ho Chi Minh City,Vietnam,27.71
+1982,Ho Chi Minh City,Vietnam,27.55
+1983,Ho Chi Minh City,Vietnam,27.77
+1984,Ho Chi Minh City,Vietnam,27.43
+1985,Ho Chi Minh City,Vietnam,27.64
+1986,Ho Chi Minh City,Vietnam,27.47
+1987,Ho Chi Minh City,Vietnam,28.02
+1988,Ho Chi Minh City,Vietnam,27.79
+1989,Ho Chi Minh City,Vietnam,27.52
+1990,Ho Chi Minh City,Vietnam,27.88
+1991,Ho Chi Minh City,Vietnam,27.71
+1992,Ho Chi Minh City,Vietnam,27.64
+1993,Ho Chi Minh City,Vietnam,27.50
+1994,Ho Chi Minh City,Vietnam,27.60
+1995,Ho Chi Minh City,Vietnam,27.65
+1996,Ho Chi Minh City,Vietnam,27.43
+1997,Ho Chi Minh City,Vietnam,27.80
+1998,Ho Chi Minh City,Vietnam,28.39
+1999,Ho Chi Minh City,Vietnam,27.45
+2000,Ho Chi Minh City,Vietnam,27.59
+2001,Ho Chi Minh City,Vietnam,27.83
+2002,Ho Chi Minh City,Vietnam,28.06
+2003,Ho Chi Minh City,Vietnam,27.83
+2004,Ho Chi Minh City,Vietnam,27.69
+2005,Ho Chi Minh City,Vietnam,27.88
+2006,Ho Chi Minh City,Vietnam,28.04
+2007,Ho Chi Minh City,Vietnam,27.87
+2008,Ho Chi Minh City,Vietnam,27.61
+2009,Ho Chi Minh City,Vietnam,27.85
+2010,Ho Chi Minh City,Vietnam,28.28
+2011,Ho Chi Minh City,Vietnam,27.68
+2012,Ho Chi Minh City,Vietnam,28.25
+2013,Ho Chi Minh City,Vietnam,28.46
